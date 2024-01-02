@@ -6,15 +6,15 @@
 3. Upload to Jupyter Notebook or Google Colab
 4. Run
 
-* "Using Git" and "Using Libraries" cells are simply informational, no need to run
+   * "Using Git" and "Using Libraries" cells are simply informational, no need to run
    
-* The dataset importation method this notebook uses is through Google Drive. To do this, you upload the .csv file to Google Drive and run "Import Dataset" cell.
+   * The dataset importation method this notebook uses is through Google Drive. To do this, you upload the .csv file to Google Drive and run "Import Dataset" cell.
    
-* If you do not want to upload to Google Drive, there is no need to run "Import Dataset". You must then change the file path in Main in this line to your path:
+   * If you do not want to upload to Google Drive, there is no need to run "Import Dataset". You must then change the file path in Main in this line to your path:
 
-df = pd.read_csv('/content/drive/MyDrive/loan_approval_dataset.csv')
+      df = pd.read_csv('/content/drive/MyDrive/loan_approval_dataset.csv')
    
-* Run Main
+   * Run Main
 
 ## Interpreting Results
 
