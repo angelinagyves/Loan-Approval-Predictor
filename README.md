@@ -18,7 +18,7 @@
 
 ## Interpreting Results
 
-** Results may vary from run-to-run as the random test data varies. **
+** Results may vary from run-to-run as the random test data varies **
 
 There are many labeled graphs provided to visualize effects, all of which have comment code indicating where they came from and what they compare/show.
 
