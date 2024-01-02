@@ -1,4 +1,4 @@
-# Predicting student loan approval based on a provided dataset of existing loan approvals/rejections using a Decision Tree classifier and a Random Forest classifier
+# Predicting student loan approval using a Decision Tree classifier and a Random Forest classifier
 
 ## To replicate:
 1. Download .ipynb file
