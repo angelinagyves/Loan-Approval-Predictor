@@ -23,4 +23,4 @@
 There are many labeled graphs provided to visualize effects, all of which have comment code indicating where they came from and what they compare/show.
 
 ## Conclusion
-After multiple runs, it is evident that income, assets, and cibil score have the greatest effect on loan approval.
+After multiple runs, it is evident that income, assets, and cibil score have the greatest effect on loan approval. Both models seem to perform with similar accuracy, both having an R-squared score that hovers around 90%, give or take a few %.
